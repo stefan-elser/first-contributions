@@ -13617,3 +13617,4 @@ CMBloodMeridian
 - [Jeffrey Hui] (https://github.com/jeffrey-hui)
 - [PerfectDay20] (https://github.com/PerfectDay20)
 - [Levon Ar] (https://github.com/LevonAr)
+- [Stefan Elser](https://github.com/stefan-elser)
